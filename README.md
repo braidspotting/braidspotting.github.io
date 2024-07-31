@@ -4,5 +4,5 @@
 	- [published version](https://www.tandfonline.com/doi/full/10.1080/17513472.2023.2202946)	
 	- [preprint](https://joshuarbholden.github.io/kumihimo/naiki-JMA-special-revised.pdf)
  	- [Supplement:  The 406 Naiki Patterns](https://joshuarbholden.github.io/kumihimo/inventory.html)
- 
-  ![The structure of a Naiki braid](structure.jpg "The structure of a Naiki braid")
+
+![The structure of a Naiki braid](tmaa_a_2202946_uf0001_oc.jpg "The structure of a Naiki braid")
