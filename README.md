@@ -1,9 +1,11 @@
 ## Combinatorics and Symmetry of Braids
-- [Changing Spots: Using Combinatorics to Count Japanese Braiding Patterns](https://archive.bridgesmathart.org/2022/bridges2022-327.html)
+- [Changing Spots: Using Combinatorics to Count Japanese Braiding Patterns](https://archive.bridgesmathart.org/2022/bridges2022-327.html) (Kongō Gumi braid patterns)
 - Monsters in the hollow: Counting Naiki braid patterns using de Bruijn’s Monster Theorem
 	- [published version](https://www.tandfonline.com/doi/full/10.1080/17513472.2023.2202946)	
 	- [preprint](https://joshuarbholden.github.io/kumihimo/naiki-JMA-special-revised.pdf)
 	- [Supplement:  The 406 Naiki Patterns](https://joshuarbholden.github.io/kumihimo/inventory.html)
+- Twist, Turn, and Shout:  The Symmetries of Braided Cords
+	- [slides](https://braidspotting.github.io/DMV-braid-symmetries.pdf)
 \
 \
 \
